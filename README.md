@@ -24,3 +24,9 @@ Sentiment analysis is performed using a lightweight LSTM regression model. It pr
 ### Model Training
 The project utilizes a basic LSTM model to predict the sentiment of news headlines. The LSTM model is trained on the preprocessed data to learn the relationships between words and sentiments.
 
+Predicted sentiment box plots for three major news providers
+![image](https://github.com/ianvet31/newsScraper_Analysis/assets/61299105/8d388c06-3570-4566-b6ea-01dc0d513b8f)
+
+Noisy training curve
+![image](https://github.com/ianvet31/newsScraper_Analysis/assets/61299105/9e470711-47ca-43ca-888f-d7d269c98ce4)
+
